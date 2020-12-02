@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Tree",
+            "request": "launch",
+            "mainClass": "src.tress.Tree",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sum",
             "request": "launch",
             "mainClass": "src.Recurssion.Sum",
