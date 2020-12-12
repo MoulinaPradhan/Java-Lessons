@@ -29,7 +29,8 @@ public class Tree {
         root.right=createTree();
         return root;
     }
-static void inOrder(Node root){
+
+    static void inOrder(Node root){
 if(root == null) return;
 inOrder(root.left);
 System.out.print(root.data+" ");
