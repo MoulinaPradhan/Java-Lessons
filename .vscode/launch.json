@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Practice",
+            "request": "launch",
+            "mainClass": "src.Arrays.Practice",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Prac",
             "request": "launch",
             "mainClass": "src.tress.Prac",
