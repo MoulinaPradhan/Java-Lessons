@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindPath",
+            "request": "launch",
+            "mainClass": "src.Graphs.FindPath",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleGraph",
+            "request": "launch",
+            "mainClass": "src.Graphs.SimpleGraph",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetBitsSum",
+            "request": "launch",
+            "mainClass": "src.Bits.SetBitsSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestPwer2",
+            "request": "launch",
+            "mainClass": "src.Bits.LargestPwer2",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kernighans",
+            "request": "launch",
+            "mainClass": "src.Bits.Kernighans",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleManipulation",
+            "request": "launch",
+            "mainClass": "src.Bits.SimpleManipulation",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "src.Sorting.BubbleSort",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Practice",
             "request": "launch",
             "mainClass": "src.Arrays.Practice",
