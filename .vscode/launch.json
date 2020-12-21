@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "src.Sorting.SelectionSort",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Basics",
             "request": "launch",
             "mainClass": "src.ArrayList.Basics",
