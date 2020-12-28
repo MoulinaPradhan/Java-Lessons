@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MakeStringsGreater",
+            "request": "launch",
+            "mainClass": "src.Stack.MakeStringsGreater",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeStrings",
+            "request": "launch",
+            "mainClass": "src.Stack.MakeStrings",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharacterConversion",
+            "request": "launch",
+            "mainClass": "src.Strings.CharacterConversion",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MakeGreater",
+            "request": "launch",
+            "mainClass": "src.Stack.MakeGreater",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Duplicacy",
             "request": "launch",
             "mainClass": "src.Stack.Duplicacy",
