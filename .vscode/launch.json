@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Duplicacy",
+            "request": "launch",
+            "mainClass": "src.Stack.Duplicacy",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "src.Stack.Basics",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch WealthPerson",
+            "request": "launch",
+            "mainClass": "src.Arrays.WealthPerson",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch ReverseStringArrays",
             "request": "launch",
             "mainClass": "src.Strings.ReverseStringArrays",
