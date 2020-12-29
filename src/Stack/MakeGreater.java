@@ -23,5 +23,12 @@ public class MakeGreater {
         }
 
     System.out.println(st);    
+  
+   char[] c=new char[st.size()];
+   for(int i=c.length-1;i>=0;i--){
+       c[i]=st.pop();
+   } String m=new String(c);
+   System.out.println(m);
+  
     }
 }
