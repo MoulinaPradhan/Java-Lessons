@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HalfStrings",
+            "request": "launch",
+            "mainClass": "src.Strings.HalfStrings",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch PriorityQueues",
             "request": "launch",
             "mainClass": "src.priorityQueue.PriorityQueues",
