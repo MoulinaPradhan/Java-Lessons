@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EquivalentArrays",
+            "request": "launch",
+            "mainClass": "src.Strings.EquivalentArrays",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch HalfStrings",
             "request": "launch",
             "mainClass": "src.Strings.HalfStrings",
