@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Basic",
+            "request": "launch",
+            "mainClass": "src.LinkedLists.Basic",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "src.LinkedLists.Basics",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch SpecialArray",
             "request": "launch",
             "mainClass": "src.Arrays.SpecialArray",
