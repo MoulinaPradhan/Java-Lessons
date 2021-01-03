@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "src.HashMaps.Basics",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeautifulArrangement",
+            "request": "launch",
+            "mainClass": "src.LeetCode.BeautifulArrangement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoOfMatches",
+            "request": "launch",
+            "mainClass": "src.LeetCode.NoOfMatches",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Basic",
             "request": "launch",
             "mainClass": "src.LinkedLists.Basic",
