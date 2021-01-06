@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GoalParser",
+            "request": "launch",
+            "mainClass": "src.Strings.GoalParser",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubString",
+            "request": "launch",
+            "mainClass": "src.Strings.SubString",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDArray",
+            "request": "launch",
+            "mainClass": "src.Arrays.twoDArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOccurance",
+            "request": "launch",
+            "mainClass": "src.Arrays.MaxOccurance",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxRepaet",
+            "request": "launch",
+            "mainClass": "src.HashMaps.MaxRepaet",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetCommonElement",
+            "request": "launch",
+            "mainClass": "src.HashMaps.GetCommonElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighestFrequency",
+            "request": "launch",
+            "mainClass": "src.HashMaps.HighestFrequency",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "src.Arrays.ContainsDuplicate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoodPair",
+            "request": "launch",
+            "mainClass": "src.HashMaps.GoodPair",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectHashmap",
+            "request": "launch",
+            "mainClass": "src.HashMaps.CollectHashmap",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Basics",
             "request": "launch",
             "mainClass": "src.HashMaps.Basics",
