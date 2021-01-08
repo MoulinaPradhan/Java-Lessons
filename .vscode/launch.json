@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RotatingArray",
+            "request": "launch",
+            "mainClass": "src.Arrays.RotatingArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "src.Arrays.RotateArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch NestingDepth",
             "request": "launch",
             "mainClass": "src.Stack.NestingDepth",
