@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringMultiply",
+            "request": "launch",
+            "mainClass": "src.Strings.StringMultiply",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterleavedString",
+            "request": "launch",
+            "mainClass": "src.Strings.InterleavedString",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch DayOfYear",
+            "request": "launch",
+            "mainClass": "src.LeetCode.DayOfYear",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubtractProductSum",
+            "request": "launch",
+            "mainClass": "src.LeetCode.SubtractProductSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNumbers",
+            "request": "launch",
+            "mainClass": "src.LeetCode.MaxNumbers",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSameStrings",
+            "request": "launch",
+            "mainClass": "src.Strings.TwoSameStrings",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SameRotatingString",
+            "request": "launch",
+            "mainClass": "src.Strings.SameRotatingString",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoOfRotation",
+            "request": "launch",
+            "mainClass": "src.Arrays.NoOfRotation",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch RotatingArray",
             "request": "launch",
             "mainClass": "src.Arrays.RotatingArray",
