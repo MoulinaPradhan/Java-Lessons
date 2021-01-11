@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoubleValue",
+            "request": "launch",
+            "mainClass": "src.Arrays.DoubleValue",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxRepeatingString",
+            "request": "launch",
+            "mainClass": "src.Strings.MaxRepeatingString",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunningSum",
+            "request": "launch",
+            "mainClass": "src.Arrays.RunningSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinCostClimb",
+            "request": "launch",
+            "mainClass": "src.LeetCode.MinCostClimb",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbingStairs",
+            "request": "launch",
+            "mainClass": "src.Recurssion.ClimbingStairs",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibbonnaci",
+            "request": "launch",
+            "mainClass": "src.Recurssion.Fibbonnaci",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch TribonacciNumber",
             "request": "launch",
             "mainClass": "src.Recurssion.TribonacciNumber",
