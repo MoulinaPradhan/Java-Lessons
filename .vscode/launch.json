@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TribonacciNumber",
+            "request": "launch",
+            "mainClass": "src.Recurssion.TribonacciNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteAlternate",
+            "request": "launch",
+            "mainClass": "src.Strings.DeleteAlternate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch FrequencySort",
+            "request": "launch",
+            "mainClass": "src.HashMaps.FrequencySort",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Phone",
+            "request": "launch",
+            "mainClass": "src.LeetCode.Phone",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxiumScore",
+            "request": "launch",
+            "mainClass": "src.Strings.MaxiumScore",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "src.Strings.RemoveDuplicate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch WaterBottles",
+            "request": "launch",
+            "mainClass": "src.LeetCode.WaterBottles",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeetBank",
+            "request": "launch",
+            "mainClass": "src.LeetCode.LeetBank",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch StringMultiply",
             "request": "launch",
             "mainClass": "src.Strings.StringMultiply",
