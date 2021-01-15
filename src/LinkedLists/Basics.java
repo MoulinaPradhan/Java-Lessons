@@ -1,9 +1,11 @@
 package src.LinkedLists;
+import java.util.*;
 
 public class Basics {
    public static class Node {
        int data;
        Node next;
+       
    }
    public static class LinkedList{
        Node head;
@@ -24,6 +26,22 @@ public class Basics {
            size++;
        }
    }
+   /*trial*/
+
+   public static int getDecimalValue(Node head) {
+    StringBuilder str = new StringBuilder();
+  while(head != null){
+      str.append(head.data);
+      head = head.next;
+  }
+  int res = Integer.parseInt(str.toString(),2);
+  return res;
+}
+
+/*trial*/
+
+
+/*print linkedlist*/
    public static void printList(LinkedList list) 
    { 
        Node currNode = list.head; 
@@ -41,8 +59,11 @@ public class Basics {
    } 
    public static void main(String[] args) {
     LinkedList list = new LinkedList(); 
-    list.addLast(10);
-    list.addLast(40);
+    
+    list.addLast(1);
+    list.addLast(0);
     printList(list); 
+    // System.out.println(list.getValue());
+   
    }
 }

@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "src.Loop.Pattern2",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "src.Loop.Pattern1",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedPattern",
+            "request": "launch",
+            "mainClass": "src.Loop.InvertedPattern",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Method",
+            "request": "launch",
+            "mainClass": "src.LinkedLists.Method",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch PairsDivisible",
+            "request": "launch",
+            "mainClass": "src.Arrays.PairsDivisible",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNegative",
+            "request": "launch",
+            "mainClass": "src.Arrays.CountNegative",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch DoubleValue",
             "request": "launch",
             "mainClass": "src.Arrays.DoubleValue",
