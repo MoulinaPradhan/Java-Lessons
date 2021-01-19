@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FavRestaurant",
+            "request": "launch",
+            "mainClass": "src.LeetCode.FavRestaurant",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SinngleNumber",
+            "request": "launch",
+            "mainClass": "src.LeetCode.SinngleNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumber",
+            "request": "launch",
+            "mainClass": "src.LeetCode.MissingNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoDuplicate",
+            "request": "launch",
+            "mainClass": "src.HashMaps.NoDuplicate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetMismathed",
+            "request": "launch",
+            "mainClass": "src.HashMaps.SetMismathed",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSets",
+            "request": "launch",
+            "mainClass": "src.HashMaps.HashSets",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ballons",
+            "request": "launch",
+            "mainClass": "src.HashMaps.Ballons",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueNum",
+            "request": "launch",
+            "mainClass": "src.LinkedLists.UniqueNum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstUnique",
+            "request": "launch",
+            "mainClass": "src.Strings.FirstUnique",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortCharsFrequency",
+            "request": "launch",
+            "mainClass": "src.priorityQueue.SortCharsFrequency",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch KLargestElement",
+            "request": "launch",
+            "mainClass": "src.priorityQueue.KLargestElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapSort",
+            "request": "launch",
+            "mainClass": "src.priorityQueue.HeapSort",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch LargestSubstring",
             "request": "launch",
             "mainClass": "src.LeetCode.LargestSubstring",
