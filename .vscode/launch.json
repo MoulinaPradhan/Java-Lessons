@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "src.DynamicProgramming.Fibonacci",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnionOfArrays",
+            "request": "launch",
+            "mainClass": "src.Arrays.UnionOfArrays",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigRam",
+            "request": "launch",
+            "mainClass": "src.LeetCode.BigRam",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharDifference",
+            "request": "launch",
+            "mainClass": "src.LeetCode.CharDifference",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Candy",
+            "request": "launch",
+            "mainClass": "src.LeetCode.Candy",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch FavRestaurant",
             "request": "launch",
             "mainClass": "src.LeetCode.FavRestaurant",
