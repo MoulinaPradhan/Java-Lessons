@@ -14,6 +14,7 @@ public static void main(String[] args) {
     que.remove();
     System.out.println(que);
     System.out.println(que.peek());
+   
 
 }
 }

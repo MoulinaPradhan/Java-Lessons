@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArraySpaces",
+            "request": "launch",
+            "mainClass": "src.Strings.ArraySpaces",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagrams",
+            "request": "launch",
+            "mainClass": "src.HashMaps.Anagrams",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleNumber",
+            "request": "launch",
+            "mainClass": "src.LeetCode.DoubleNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthLastWord",
+            "request": "launch",
+            "mainClass": "src.Strings.LengthLastWord",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "src.LeetCode.TwoSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "src.HashMaps.MajorityElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestElement",
+            "request": "launch",
+            "mainClass": "src.Arrays.LargestElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumBits",
+            "request": "launch",
+            "mainClass": "src.Bits.NumBits",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORedArray",
+            "request": "launch",
+            "mainClass": "src.Bits.XORedArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RectanglesFormed",
+            "request": "launch",
+            "mainClass": "src.Greedy.RectanglesFormed",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabulation",
+            "request": "launch",
+            "mainClass": "src.DynamicProgramming.Tabulation",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClimbingStairs",
+            "request": "launch",
+            "mainClass": "src.DynamicProgramming.ClimbingStairs",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Fibonacci",
             "request": "launch",
             "mainClass": "src.DynamicProgramming.Fibonacci",
