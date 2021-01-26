@@ -21,7 +21,7 @@ public class HappyNumber {
         int last =n%10;
           sum +=last*last;
           n=n/10;
-         // System.out.println( sum);
+         System.out.println( sum);
          
      }
      return sum;
@@ -29,7 +29,7 @@ public class HappyNumber {
  
     
     public static void main(String[] args) {
-        int n=19;
+        int n=13;
         System.out.println(isHappy(n));
     }
 }

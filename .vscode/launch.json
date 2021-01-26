@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FinalPriceWithDiscount",
+            "request": "launch",
+            "mainClass": "src.LeetCode.FinalPriceWithDiscount",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxElement",
+            "request": "launch",
+            "mainClass": "src.LeetCode.MaxElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatedDna",
+            "request": "launch",
+            "mainClass": "src.LeetCode.RepeatedDna",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch UglyNumber",
             "request": "launch",
             "mainClass": "src.LeetCode.UglyNumber",
