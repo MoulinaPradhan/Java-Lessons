@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AssignCookies",
+            "request": "launch",
+            "mainClass": "src.LeetCode.AssignCookies",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuckyNumInArray",
+            "request": "launch",
+            "mainClass": "src.LeetCode.LuckyNumInArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShuffleArray",
+            "request": "launch",
+            "mainClass": "src.LeetCode.ShuffleArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumEvenNumber",
+            "request": "launch",
+            "mainClass": "src.LeetCode.SumEvenNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateZeroes",
+            "request": "launch",
+            "mainClass": "src.LeetCode.DuplicateZeroes",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CityDestination",
+            "request": "launch",
+            "mainClass": "src.LeetCode.CityDestination",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortArray",
+            "request": "launch",
+            "mainClass": "src.Strings.sortArray",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsecutiveChars",
+            "request": "launch",
+            "mainClass": "src.LeetCode.ConsecutiveChars",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch FinalPriceWithDiscount",
             "request": "launch",
             "mainClass": "src.LeetCode.FinalPriceWithDiscount",
