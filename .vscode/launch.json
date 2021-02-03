@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AverageSalery",
+            "request": "launch",
+            "mainClass": "src.ArrayList.AverageSalery",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestTimeStock",
+            "request": "launch",
+            "mainClass": "src.LeetCode.BestTimeStock",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSize",
+            "request": "launch",
+            "mainClass": "src.tress.BinaryTree.TreeSize",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSize",
+            "request": "launch",
+            "mainClass": "src.DataTypes.TreeSize",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSize",
+            "request": "launch",
+            "mainClass": "src.tress.TreeSize",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "src.tress.Basics",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkWordOccursPrefix",
+            "request": "launch",
+            "mainClass": "src.Strings.checkWordOccursPrefix",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NextGreaterElement",
+            "request": "launch",
+            "mainClass": "src.Stack.NextGreaterElement",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseSubstring",
+            "request": "launch",
+            "mainClass": "src.Stack.ReverseSubstring",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveAlladjacent",
+            "request": "launch",
+            "mainClass": "src.Strings.RemoveAlladjacent",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch AvoidFlood",
+            "request": "launch",
+            "mainClass": "src.Stack.AvoidFlood",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthMissing",
+            "request": "launch",
+            "mainClass": "src.Arrays.KthMissing",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumbersSmaller",
+            "request": "launch",
+            "mainClass": "src.Arrays.NumbersSmaller",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch OnePlus",
+            "request": "launch",
+            "mainClass": "src.Arrays.OnePlus",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "src.Arrays.RemoveDuplicate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateTargetinOrder",
+            "request": "launch",
+            "mainClass": "src.Arrays.CreateTargetinOrder",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoatLatin",
+            "request": "launch",
+            "mainClass": "src.LeetCode.GoatLatin",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch PathCrossing",
+            "request": "launch",
+            "mainClass": "src.LeetCode.PathCrossing",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPathMattrix",
+            "request": "launch",
+            "mainClass": "src.DynamicProgramming.LongestPathMattrix",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch FizzBuzz",
+            "request": "launch",
+            "mainClass": "src.LeetCode.FizzBuzz",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch AssignCookies",
             "request": "launch",
             "mainClass": "src.LeetCode.AssignCookies",

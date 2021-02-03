@@ -2,7 +2,7 @@ package src.tress;
 
 import java.util.Scanner;
 
-public class Tree {
+public class Basics {
     static Scanner sc= null;
     public static void main(String[] args) {
         sc= new Scanner(System.in);
@@ -29,8 +29,7 @@ public class Tree {
         root.right=createTree();
         return root;
     }
-
-    static void inOrder(Node root){
+static void inOrder(Node root){
 if(root == null) return;
 inOrder(root.left);
 System.out.print(root.data+" ");
