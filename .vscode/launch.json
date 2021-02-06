@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindCommonChars",
+            "request": "launch",
+            "mainClass": "src.LeetCode.FindCommonChars",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumbers",
+            "request": "launch",
+            "mainClass": "src.Loop.PrimeNumbers",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtraCandies",
+            "request": "launch",
+            "mainClass": "src.ArrayList.ExtraCandies",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckStraightLine",
+            "request": "launch",
+            "mainClass": "src.ArrayList.CheckStraightLine",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch AverageSalery",
             "request": "launch",
             "mainClass": "src.ArrayList.AverageSalery",
