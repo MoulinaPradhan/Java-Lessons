@@ -11,6 +11,7 @@ public class TreeSize {
             inOrder(root);
             System.out.println();
             System.out.println(size(root));
+            System.out.println("sum"+ " "+ sum(root));
         
    } 
 
@@ -41,7 +42,16 @@ public static int size(Node root){
     int  rs = size(root.right);
     int ts= ls+rs+1;
     return ts;
+}
 
+public static int sum (Node root){
+    if(root == null){
+        return 0;
+    }
+    int lsm = sum(root.left);
+    int rsm = sum (root.right);
+    int tsm = lsm + rsm +  root.data;
+    return  tsm;
 }
 
 }

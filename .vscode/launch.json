@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MergeRange",
+            "request": "launch",
+            "mainClass": "src.Arrays.MergeRange",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaPrefixSum",
+            "request": "launch",
+            "mainClass": "src.LeetCode.JavaPrefixSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basic",
+            "request": "launch",
+            "mainClass": "src.tress.BST.Basic",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindWordsFormedChars",
+            "request": "launch",
+            "mainClass": "src.HashMaps.FindWordsFormedChars",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RankTransform",
+            "request": "launch",
+            "mainClass": "src.ArrayList.RankTransform",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch RearrangeSpaces",
+            "request": "launch",
+            "mainClass": "src.Strings.RearrangeSpaces",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddArrayToInteger",
+            "request": "launch",
+            "mainClass": "src.ArrayList.AddArrayToInteger",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch FindCommonChars",
             "request": "launch",
             "mainClass": "src.LeetCode.FindCommonChars",
