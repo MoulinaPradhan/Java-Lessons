@@ -4,6 +4,7 @@ import java.util.*;
 
 
 
+
 public class SimpleGraph {
 
     //Adjacent List
@@ -23,7 +24,7 @@ public class SimpleGraph {
         ArrayList<Edge>[]Graph = new ArrayList[7];
         for(int i=0;i<vcs;i++){
             Graph[i]=new ArrayList<Edge>();
-         
+        
         }
     
         Graph[0].add(new Edge(0,3,40));
@@ -43,6 +44,8 @@ public class SimpleGraph {
         Graph[6].add(new Edge(6,4,8));
         Graph[6].add(new Edge(6,5,3));
 
+
+      
     }
     
 }

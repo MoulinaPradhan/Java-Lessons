@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CountChars",
+            "request": "launch",
+            "mainClass": "src.Arrays.CountChars",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncodingWords",
+            "request": "launch",
+            "mainClass": "src.Strings.EncodingWords",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch BFS",
+            "request": "launch",
+            "mainClass": "src.Graphs.BFS",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeRange",
             "request": "launch",
             "mainClass": "src.Arrays.MergeRange",
