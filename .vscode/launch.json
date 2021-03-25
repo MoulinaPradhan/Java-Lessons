@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch epicTransformation",
+            "request": "launch",
+            "mainClass": "src.codeforces.epicTransformation",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch TheNumberOfPairs",
             "request": "launch",
             "mainClass": "src.codeforces.TheNumberOfPairs",
