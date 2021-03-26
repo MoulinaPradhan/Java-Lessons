@@ -6,6 +6,7 @@ public class Tabulation {
        System.out.println(countPaths(n)); 
 
     }
+    
 
 public static int countPaths(int n){
     if(n==0){
