@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DejaVu",
+            "request": "launch",
+            "mainClass": "src.codeforces.DejaVu",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrongLanguage",
+            "request": "launch",
+            "mainClass": "src.codechef.StrongLanguage",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch worldRecord",
+            "request": "launch",
+            "mainClass": "src.codechef.worldRecord",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pairs",
+            "request": "launch",
+            "mainClass": "src.codechef.Pairs",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch PlanarReflection",
             "request": "launch",
             "mainClass": "src.codeforces.PlanarReflection",
