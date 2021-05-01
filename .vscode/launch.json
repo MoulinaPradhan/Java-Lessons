@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "src.codechef.Game",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Heaven",
+            "request": "launch",
+            "mainClass": "src.codechef.Heaven",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColdPlay",
+            "request": "launch",
+            "mainClass": "src.codechef.ColdPlay",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParenthesis",
+            "request": "launch",
+            "mainClass": "src.Stack.ValidParenthesis",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch AgaXor",
+            "request": "launch",
+            "mainClass": "src.codeforces.AgaXor",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch DejaVu",
             "request": "launch",
             "mainClass": "src.codeforces.DejaVu",
