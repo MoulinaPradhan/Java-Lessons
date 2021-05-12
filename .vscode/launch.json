@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LongetSubArrayWithSumK",
+            "request": "launch",
+            "mainClass": "LongetSubArrayWithSumK",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumCard",
+            "request": "launch",
+            "mainClass": "MaximumCard",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch XorEquality",
+            "request": "launch",
+            "mainClass": "XorEquality",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solubility",
+            "request": "launch",
+            "mainClass": "Solubility",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch codeclate",
+            "request": "launch",
+            "mainClass": "codeclate",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch virus",
+            "request": "launch",
+            "mainClass": "virus",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Game",
             "request": "launch",
             "mainClass": "src.codechef.Game",

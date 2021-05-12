@@ -5,5 +5,12 @@
         "**/.project": true,
         "**/.settings": true,
         "**/.factorypath": true
-    }
+    },
+    "java.project.sourcePaths": [
+        "src/codeforces",
+        "src/codechef",
+        "src/LeetCode",
+        "src/Bits",
+        "src/Arrays"
+    ]
 }
