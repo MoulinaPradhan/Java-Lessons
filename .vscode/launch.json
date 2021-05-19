@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch KnapSack",
+            "request": "launch",
+            "mainClass": "KnapSack",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch LongetSubArrayWithSumK",
             "request": "launch",
             "mainClass": "LongetSubArrayWithSumK",
