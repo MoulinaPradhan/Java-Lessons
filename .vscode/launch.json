@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SieveOfEratosthenes",
+            "request": "launch",
+            "mainClass": "SieveOfEratosthenes",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch nQueen",
+            "request": "launch",
+            "mainClass": "nQueen",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TargetSum",
+            "request": "launch",
+            "mainClass": "TargetSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch KnapSack",
             "request": "launch",
             "mainClass": "KnapSack",

@@ -10,8 +10,9 @@
         "src/codeforces",
         "src/codechef",
         "src/LeetCode",
+        "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/DynamicProgramming"
+        "src/backTracking"
     ]
 }
