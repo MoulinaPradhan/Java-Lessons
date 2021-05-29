@@ -9,10 +9,11 @@
     "java.project.sourcePaths": [
         "src/codeforces",
         "src/codechef",
+        "src/backTracking",
         "src/LeetCode",
         "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/backTracking"
+        "src/Graphs"
     ]
 }
