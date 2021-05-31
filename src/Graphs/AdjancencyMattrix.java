@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class AdjiancyMattrix {
+public class AdjancencyMattrix {
 public static void main(String[] args) {
     int n =3; // number of vertices
     int m; // no. of edges

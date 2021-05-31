@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BFSAdjaciency",
+            "request": "launch",
+            "mainClass": "BFSAdjaciency",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdjacencyList",
+            "request": "launch",
+            "mainClass": "AdjacencyList",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch AdjiancyMattrix",
             "request": "launch",
             "mainClass": "AdjiancyMattrix",
