@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CombinationSum",
+            "request": "launch",
+            "mainClass": "June.CombinationSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProblemDividingNumber",
+            "request": "launch",
+            "mainClass": "ProblemDividingNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumOfPairs",
+            "request": "launch",
+            "mainClass": "NumOfPairs",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch usingBufferReader",
+            "request": "launch",
+            "mainClass": "usingBufferReader",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellaCiao",
+            "request": "launch",
+            "mainClass": "BellaCiao",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch cOCONUTS",
+            "request": "launch",
+            "mainClass": "cOCONUTS",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MikePhotographer",
+            "request": "launch",
+            "mainClass": "MikePhotographer",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch BFSAdjaciency",
             "request": "launch",
             "mainClass": "BFSAdjaciency",

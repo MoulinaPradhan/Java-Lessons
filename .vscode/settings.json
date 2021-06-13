@@ -11,9 +11,10 @@
         "src/codechef",
         "src/backTracking",
         "src/LeetCode",
+        "src/Graphs",
         "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/Graphs"
+        "src/GFG"
     ]
 }
