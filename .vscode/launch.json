@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sortArrayInAssending",
+            "request": "launch",
+            "mainClass": "sortArrayInAssending",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Brownie",
+            "request": "launch",
+            "mainClass": "Brownie",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinatonSum",
+            "request": "launch",
+            "mainClass": "CombinatonSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch kdDifferernt",
+            "request": "launch",
+            "mainClass": "June.kdDifferernt",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch CombinationSum",
             "request": "launch",
             "mainClass": "June.CombinationSum",
