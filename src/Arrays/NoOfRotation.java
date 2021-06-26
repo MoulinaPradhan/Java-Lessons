@@ -1,4 +1,4 @@
-package src.Arrays;
+
 
 // to find the no of rotation, need to find the index of the smallest element
 

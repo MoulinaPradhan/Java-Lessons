@@ -1,4 +1,3 @@
-package src.Arrays;
 
 import java.util.*;
 

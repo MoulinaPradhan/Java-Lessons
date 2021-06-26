@@ -1,4 +1,4 @@
-package src.Arrays;
+
 import java.util.*;
 /**
  * Given a m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in grid.

@@ -1,4 +1,4 @@
-package src.Arrays;
+
 
 public class AdditionSquareMatrix {
     public static void main(String[] args) {
