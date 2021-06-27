@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CandyD",
+            "request": "launch",
+            "mainClass": "CandyD",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CorrectSubmission",
+            "request": "launch",
+            "mainClass": "CorrectSubmission",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SleepCycle",
+            "request": "launch",
+            "mainClass": "SleepCycle",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChessMatch",
+            "request": "launch",
+            "mainClass": "ChessMatch",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
