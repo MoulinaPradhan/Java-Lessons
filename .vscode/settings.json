@@ -12,9 +12,10 @@
         "src/backTracking",
         "src/LeetCode",
         "src/Graphs",
+        "src/GFG",
         "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/GFG"
+        "src/mock"
     ]
 }

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximalRectangle",
+            "request": "launch",
+            "mainClass": "MaximalRectangle",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumWaysToGivenSUm",
+            "request": "launch",
+            "mainClass": "dp.NumWaysToGivenSUm",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch CandyD",
             "request": "launch",
             "mainClass": "CandyD",
