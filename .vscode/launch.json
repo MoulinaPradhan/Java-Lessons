@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumSumLessThanK",
+            "request": "launch",
+            "mainClass": "MaximumSumLessThanK",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDMattrixSum",
+            "request": "launch",
+            "mainClass": "TwoDMattrixSum",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximalRectangle",
             "request": "launch",
             "mainClass": "MaximalRectangle",
