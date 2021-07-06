@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 
 public class WaterBottles {
     public static int numWaterBottles(int numBottles, int numExchange) {

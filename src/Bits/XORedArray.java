@@ -1,4 +1,4 @@
-package src.Bits;
+
 
 /**
  * There is a hidden integer array arr that consists of n non-negative integers.

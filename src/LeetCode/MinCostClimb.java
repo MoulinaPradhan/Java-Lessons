@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 
 public class MinCostClimb {
     public static int minCostClimbingStairs(int[] cost) {

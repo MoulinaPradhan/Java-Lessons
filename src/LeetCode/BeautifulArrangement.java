@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 
 public class BeautifulArrangement {
     public static void main(String[] args) {

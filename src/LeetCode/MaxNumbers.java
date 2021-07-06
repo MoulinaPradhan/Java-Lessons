@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 
 /**
  * Given a positive integer num consisting only of digits 6 and 9.

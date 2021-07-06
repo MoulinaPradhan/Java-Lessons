@@ -16,10 +16,15 @@ public class MaximumSumLessThanK {
         for(int i=0;i<sum.length;i++){
             prefixSum+= sum[i];
             Integer target = set.ceiling(prefixSum-k);
-
+            
+            System.out.println("target - "+target);
+            
             if(target != null){
                 result = Math.max(result, prefixSum-target);
             }
+
+            System.out.println("result - "+result);
+            
             set.add(prefixSum);
         }
         return result;

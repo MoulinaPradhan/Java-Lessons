@@ -1,4 +1,4 @@
-package src.codechef;
+
 import java.text.DecimalFormat;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 import java.util.*;
 /**
  * You are given an array prices where prices[i] is the price of a given stock on the ith day.

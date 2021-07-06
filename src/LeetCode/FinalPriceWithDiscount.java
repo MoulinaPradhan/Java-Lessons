@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 import java.util.*;
 
 public class FinalPriceWithDiscount {

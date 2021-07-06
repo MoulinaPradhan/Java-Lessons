@@ -2,7 +2,6 @@
 
 import java.util.ArrayList;
 
-import src.Loop.Sum;
 
 public class SumNum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.LeetCode;
+
 import java.util.*;
 /**
  * Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings.

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumProduction",
+            "request": "launch",
+            "mainClass": "MaximumProduction",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumSumLessThanK",
             "request": "launch",
             "mainClass": "MaximumSumLessThanK",

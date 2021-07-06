@@ -1,8 +1,9 @@
 package June;
+import java.util.*;
 
 public class InsertIntoBinary {
-    class Solution {
-        public TreeNode insertIntoBST(TreeNode root, int val) {
+ 
+        public static TreeNode insertIntoBST(TreeNode root, int val) {
             if(root == null){
                 root = new TreeNode(val);
                 return root;
@@ -15,11 +16,11 @@ public class InsertIntoBinary {
             return root;
         }
     }
-}
+
 
 //Iterative
 
-public TreeNode insertIntoBST(TreeNode root, int val) {
+public static TreeNode insertIntoBST(TreeNode root, int val) {
     if(root == null) return new TreeNode(val);
     TreeNode cur = root;
     while(true) {

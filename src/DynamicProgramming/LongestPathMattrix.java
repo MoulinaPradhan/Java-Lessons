@@ -1,4 +1,4 @@
-package src.DynamicProgramming;
+
 
 public class LongestPathMattrix {
     public static void main(String[] args) {

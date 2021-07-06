@@ -1,4 +1,4 @@
-package src.Bits;
+
 
 public class NumBits {
     public static int hammingWeight(int n) {
