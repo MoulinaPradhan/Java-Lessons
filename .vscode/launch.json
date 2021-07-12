@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GeekonacciNumber",
+            "request": "launch",
+            "mainClass": "GeekonacciNumber",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice2",
+            "request": "launch",
+            "mainClass": "practice2",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch Partion",
+            "request": "launch",
+            "mainClass": "Partion",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatchDay",
+            "request": "launch",
+            "mainClass": "MatchDay",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch Relativity",
             "request": "launch",
             "mainClass": "Relativity",

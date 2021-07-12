@@ -7,15 +7,17 @@
         "**/.factorypath": true
     },
     "java.project.sourcePaths": [
+        "src/mock",
         "src/codeforces",
         "src/codechef",
         "src/backTracking",
+        "src/Queque",
         "src/LeetCode",
         "src/Graphs",
         "src/GFG",
         "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/mock"
+        "src/HelloWorld"
     ]
 }
