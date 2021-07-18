@@ -13,11 +13,13 @@
         "src/backTracking",
         "src/Queque",
         "src/LeetCode",
+        "src/HelloWorld",
+        "src/HashMaps",
         "src/Graphs",
         "src/GFG",
         "src/DynamicProgramming",
         "src/Bits",
         "src/Arrays",
-        "src/HelloWorld"
+        "src/tress"
     ]
 }

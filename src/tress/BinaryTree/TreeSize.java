@@ -1,4 +1,4 @@
-package src.tress.BinaryTree;
+
 
 import java.util.Scanner;
 public class TreeSize {

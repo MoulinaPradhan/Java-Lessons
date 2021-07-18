@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TrieImplementation",
+            "request": "launch",
+            "mainClass": "TrieImplementation",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetBasics",
+            "request": "launch",
+            "mainClass": "SetBasics",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomSort",
+            "request": "launch",
+            "mainClass": "CustomSort",
+            "projectName": "Java Lesson_1742d958"
+        },
+        {
+            "type": "java",
             "name": "Launch SubarraysWithSumK",
             "request": "launch",
             "mainClass": "SubarraysWithSumK",

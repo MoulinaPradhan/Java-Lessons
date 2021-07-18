@@ -1,5 +1,5 @@
 
-import java.util.Map;
+import java.util.*;
 
 public class ConcateArrayTOArray {
     public boolean canFormArray(int[] arr, int[][] pieces) {
