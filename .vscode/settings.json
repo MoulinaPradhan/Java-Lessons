@@ -1,25 +1,8 @@
 {
-    "git.ignoreLimitWarning": true,
-    "files.exclude": {
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    },
     "java.project.sourcePaths": [
-        "src/mock",
-        "src/codeforces",
-        "src/codechef",
-        "src/backTracking",
-        "src/Queque",
         "src/LeetCode",
-        "src/HelloWorld",
-        "src/HashMaps",
-        "src/Graphs",
         "src/GFG",
-        "src/DynamicProgramming",
-        "src/Bits",
-        "src/Arrays",
-        "src/tress"
+        "src/BufferInput",
+        "src/codechef"
     ]
 }

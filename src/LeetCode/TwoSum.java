@@ -1,7 +1,5 @@
 
 
-import javax.lang.model.element.Element;
-
 public class TwoSum {
     public static void main(String[] args) {
         int numbers[] ={2,7,11,15};
