@@ -16,6 +16,7 @@ public class SumOfDigitsStringAfterConvert {
         for(int i=0;i<s.length();i++){
             num+= Integer.valueOf(s.charAt(i)-'a'+1);
         }
+        // System.out.println(num);
         int sum =0;
         while(k-->0){
             sum=0;
