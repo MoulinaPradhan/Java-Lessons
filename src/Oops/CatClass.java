@@ -1,4 +1,4 @@
-package src.Oops;
+// package src.Oops;
 
 class Cat {
     int legs, eyes;// features
@@ -15,6 +15,8 @@ class Cat {
         System.out.println("it has " + legs + "legs and " + eyes + " eyes");
     }
 }
+
+
 
 public class CatClass {
     public static void main(String[] args) {
