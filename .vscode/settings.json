@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "src/tress/BinaryTree",
+        "src/codeforces",
         "src/codechef",
         "src/Strings",
         "src/Oops",
@@ -8,6 +9,6 @@
         "src/GFG",
         "src/BufferInput",
         "src/Arrays",
-        "src/codeforces"
+        "src/infosys"
     ]
 }
