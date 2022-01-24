@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Sort {
+public class MergeSort {
 public static void main(String[] args) {
     
     int arr[] = {2,5,3,1,8,6};
@@ -16,12 +16,12 @@ public static void Sort(int arr[],int low,int high){
    if(low< high){
        Sort(arr, low, mid);
        Sort(arr, mid+1, high);
-       (arr,low,mid,high);
+       merge(arr, low, mid, high);
    }
 
 }
 
-public static void (int arr[], int low, int mid, int high ){
+public static void merge(int arr[], int low, int mid, int high ){
     int left[]= Arrays.copyOfRange(arr, low, mid+1);
     int right[] = Arrays.copyOfRange(arr, mid+1, high+1);
 
