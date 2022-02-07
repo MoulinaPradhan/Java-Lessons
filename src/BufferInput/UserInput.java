@@ -2,7 +2,7 @@ import java.io.*;
 
 
 
-public class UserInput {
+public class t {
  public static void main(String[] args) throws IOException {
     BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
     int t = Integer.parseInt(sc.readLine());
