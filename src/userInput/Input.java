@@ -1,4 +1,4 @@
-package src.userInput;
+
 
 import java.util.Scanner;
 
@@ -8,8 +8,17 @@ import java.util.Scanner;
 public class Input {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String Hello = sc.nextLine();
-        System.out.println(Hello);
+        System.out.println("Hello");// print f
+        int n =5;
+    //  while(n>0){
+    //      System.out.println("ki");
+    //      n++;
+    //  }
+        b(5);
+    }
+    public static void b( int n){
+
+        System.out.println("frio");
+        b(n-1);
     }
 }

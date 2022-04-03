@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "src/tress/BinaryTree",
         "src/test",
+        "src/mock",
         "src/infosys",
         "src/codeforces",
         "src/codechef",
@@ -11,8 +12,9 @@
         "src/LeetCode",
         "src/GFG",
         "src/Content",
+        "src/CodeStudio",
         "src/BufferInput",
         "src/Arrays",
-        "src/CodeStudio"
+        "src/userInput"
     ]
 }
