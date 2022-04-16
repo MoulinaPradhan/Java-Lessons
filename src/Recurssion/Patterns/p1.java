@@ -1,5 +1,17 @@
 package Patterns;
 
+// 2.  *
+//     **
+//     ***
+//     ****
+//     *****
+
+// 3.  *****
+//     ****
+//     ***
+//     **
+//     *
+
 public class p1 {
     public static void main(String[] args) {
        fn(4);
