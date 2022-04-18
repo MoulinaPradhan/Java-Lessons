@@ -17,7 +17,7 @@ if(c<t){
     fn2(r, c+1,t);
 }else{
     System.out.println();
-    fn2(r-1,0, t);
+    fn2(r,0, t);
 }
 
     }
