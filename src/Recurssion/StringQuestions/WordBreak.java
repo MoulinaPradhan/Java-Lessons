@@ -14,7 +14,8 @@ for(int i=0;i<By.length;i++){
 }
 
 System.out.println(wordBreak(A, B));
-System.out.println(A.contains(""));
+System.out.println(dpn(A, B));
+
 
     }
     public static int wordBreak(String A, ArrayList<String> B )
@@ -37,6 +38,24 @@ System.out.println(A.contains(""));
             else
                 return rec(A, B, index+1);
         }
+
+// dp approach if the last index value is greater than 0 it is true
+// dp[s.length()-1] >0 return true;
+
+public static int dpn (String s ,ArrayList<String> B){
+    int dp[] = new int [s.length()];
+    for(int i=0;i< s.length();i++){
+        for(int j=0;j<=i;j++){
+            String word = s.substring(j, i+1);
+if(B.contains(word)) dp[i]++;
+        }
+    }
+
+return dp[s.length()-1] >0 ? 1:0;
+
+}
+
+
     }
 
 
