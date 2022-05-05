@@ -6,9 +6,12 @@ import java.util.List;
 public class StringSubsequence {
     public static void main(String[] args) {
         // st("","abc");
-        int arr[] ={1,2,2};
-        System.out.println(subset(arr));
-        System.out.println(subsetDuplicate(arr));
+        int arr[] ={1,2,3};
+        fn(arr,new ArrayList<>());
+        System.err.println(res);
+
+        // System.out.println(subset(arr));
+        // System.out.println(subsetDuplicate(arr));
     }
     static void st(String ans, String og){
         if(og.isEmpty()) {
@@ -48,5 +51,20 @@ public class StringSubsequence {
         }
         return outer;    
         }
+     static   List<List<Integer>>res = new ArrayList<>();
+    // permutaion backtracking
+    public static void fn(int [] nums,List<Integer> curr){
+        if(curr.size() == nums.length){
+            res.add(new ArrayList<>(curr));
+            System.out.println(res);
+            return;
+        }
+        for(int i=0;i<nums.length;i++){
+                if(curr.contains(nums[i])) continue;
+            curr.add(nums[i]);
+            fn(nums,curr);
+            curr.remove(curr.size() -1);
+        }
     }
+}
 
