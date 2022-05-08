@@ -1,20 +1,21 @@
 {
-    "java.project.sourcePaths": [
-        "src/tress/BinaryTree",
-        "src/test",
-        "src/mock",
-        "src/infosys",
-        "src/codeforces",
-        "src/codechef",
-        "src/Strings",
-        "src/Recurssion",
-        "src/Oops",
-        "src/LeetCode",
-        "src/GFG",
-        "src/Content",
-        "src/CodeStudio",
-        "src/BufferInput",
-        "src/Arrays",
-        "src/userInput"
-    ]
+  "java.project.sourcePaths": [
+    "src/userInput",
+    "src/tress/BinaryTree",
+    "src/test",
+    "src/mock",
+    "src/infosys",
+    "src/codeforces",
+    "src/codechef",
+    "src/Strings",
+    "src/Recurssion",
+    "src/Oops",
+    "src/LeetCode",
+    "src/GFG",
+    "src/Content",
+    "src/CodeStudio",
+    "src/BufferInput",
+    "src/Arrays",
+    "src/firstApp"
+  ]
 }

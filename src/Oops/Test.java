@@ -10,7 +10,7 @@ class MyClass{
     }
   
 }
-public class Tesdt {
+public class Test {
     public static void main(String[] args) {
         MyClass.method();
     }
