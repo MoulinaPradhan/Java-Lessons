@@ -1,5 +1,6 @@
 // KMP Algorithm for Pattern Searching
 //lps longest prefix suffix
+//TC- O(m+n)
 
 public class KMP {
 public static void main(String[] args) {
