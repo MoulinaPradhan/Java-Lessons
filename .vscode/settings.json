@@ -5,6 +5,7 @@
     "src/test",
     "src/mock",
     "src/infosys",
+    "src/firstApp",
     "src/codeforces",
     "src/codechef",
     "src/Strings",
@@ -16,6 +17,6 @@
     "src/CodeStudio",
     "src/BufferInput",
     "src/Arrays",
-    "src/firstApp"
+    "src/Algorithms"
   ]
 }
