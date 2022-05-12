@@ -4,7 +4,7 @@ public class UglyNumberTrial {
   public static void main(String[] args) {
 
     System.out.println(loop(1, 11, 0));  
-      System.out.println(list.get(list.size()-1));
+      // System.out.println(list.get(list.size()-1));
   }
     public static List<Integer> list  = new ArrayList<>();
     public static int loop(int st, int t, int c){

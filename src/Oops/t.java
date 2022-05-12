@@ -1,19 +1,16 @@
 import java.io.IOException;
 
-class SuperClass{
-    void method() throws Exception{
-        System.out.println("super-class method");
-    }
-}
-class SubClass extends SuperClass{
-    void method() throws IOException{
-        System.out.println("sub-class method");
-    }
-}
+class prob1{
+    int puzze(int n){
+        int result;
+        if(n ==1)return 1;
+        result = puzze(n-1)*n;
+        return result;
+
+}}
 public class t{
     public static void main(String[] args)throws Exception {
-        SuperClass obj =  new SuperClass();
-
-        obj.method();
+    prob1 f = new prob1();
+    System.out.println(f.puzze(6));
     }
 }

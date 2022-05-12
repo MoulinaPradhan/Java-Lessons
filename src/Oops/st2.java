@@ -2,14 +2,11 @@
 
 public class st2 {
    public static void main(String[] args) {
-     String str="-";
-     switch("RED".toLowerCase()){
-         case "RED": str+= "R";
-         case "red" :str+= "r";
-         case "green": str+="g";
-     }
+int a =10;
+// while(a++){
+//   System.out.println("a");
+// }
 
-
-   } 
-System.out.println(str);
+System.out.println(3*2+4*5);
+   }
 }
