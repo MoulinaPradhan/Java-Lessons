@@ -1,7 +1,9 @@
 {
   "java.project.sourcePaths": [
     "src/userInput",
+    "src/tress/Trie",
     "src/tress/BinaryTree",
+    "src/tress",
     "src/test",
     "src/mock",
     "src/infosys",
@@ -17,6 +19,7 @@
     "src/CodeStudio",
     "src/BufferInput",
     "src/Arrays",
-    "src/Algorithms"
+    "src/Algorithms",
+    "src/wipro"
   ]
 }

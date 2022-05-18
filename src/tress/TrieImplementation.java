@@ -70,6 +70,8 @@ return curr.isEnd;
        System.out.println("w"); 
        String m = "Lu";
 
-       System.out.println(m.startsWith("l"));
+
+       System.out.println(m.startsWith("L"));
+
     }
 }
