@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "src/wipro",
     "src/userInput",
     "src/tress/Trie",
     "src/tress/BinaryTree",
@@ -15,11 +16,12 @@
     "src/Oops",
     "src/LeetCode",
     "src/GFG",
+    "src/DynamicProgramming",
     "src/Content",
     "src/CodeStudio",
     "src/BufferInput",
     "src/Arrays",
     "src/Algorithms",
-    "src/wipro"
+    "src/Stack"
   ]
 }

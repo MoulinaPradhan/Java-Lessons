@@ -1,4 +1,4 @@
-package src.Stack;
+
 import java.util.*;
 
 public class NextGreaterElement {
@@ -31,4 +31,5 @@ System.out.println(map);
 for(int e: arr)System.out.println(e);
 
     }
+    
 }

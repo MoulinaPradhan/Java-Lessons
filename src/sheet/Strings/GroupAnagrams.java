@@ -1,9 +1,9 @@
-//https://leetcode.com/problems/group-anagrams/
-public class GroupAnagrams {
+//https://leetcode.com/problems/group-s/
+public class Groups {
     public static void main(String[] args) {
         
     }
-    public List<List<String>> groupAnagrams(String[] strs) {
+    public List<List<String>> groups(String[] strs) {
         Map<String,List<String>>map = new HashMap<>();
         for(String s: strs){
             char ch[] = s.toCharArray();
