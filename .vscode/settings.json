@@ -12,6 +12,7 @@
     "src/codeforces",
     "src/codechef",
     "src/Strings",
+    "src/Stack",
     "src/Recurssion",
     "src/Oops",
     "src/LeetCode",
@@ -22,6 +23,6 @@
     "src/BufferInput",
     "src/Arrays",
     "src/Algorithms",
-    "src/Stack"
+    "src/Queque"
   ]
 }
