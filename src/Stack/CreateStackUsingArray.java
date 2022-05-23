@@ -28,7 +28,7 @@ public class CreateStackUsingArray {
        System.out.println(st.pop());
        st.push(7);
        System.out.println(st.peek());
-System.out.println(st.size());       
+       System.out.println(st.size());       
 
     }
     
