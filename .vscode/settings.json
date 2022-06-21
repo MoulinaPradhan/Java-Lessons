@@ -14,6 +14,7 @@
     "src/Strings",
     "src/Stack",
     "src/Recurssion",
+    "src/Queque",
     "src/Oops",
     "src/LeetCode",
     "src/GFG",
@@ -23,6 +24,6 @@
     "src/BufferInput",
     "src/Arrays",
     "src/Algorithms",
-    "src/Queque"
+    "src/Graphs"
   ]
 }

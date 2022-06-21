@@ -22,4 +22,9 @@ System.out.println(ans);
         if(n%2==0) return fn(n/2,c+1);
         else return fn(3*n+1,c+1);
     }
+    public static int memo(int n){
+        int arr [] = new int [n];
+        
+        return arr[n];
+    }
 }
