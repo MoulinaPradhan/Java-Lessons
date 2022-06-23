@@ -41,6 +41,7 @@ if(low[it] > tin[node]){
 		
 		for (int i = 0; i < n; i++) 
 			adj.add(new ArrayList<Integer>());
+            
 			
 		adj.get(0).add(1);
 		adj.get(1).add(0);
