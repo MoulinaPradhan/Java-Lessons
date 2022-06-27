@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 
 class Noda{
     int u;
@@ -43,7 +44,10 @@ for (int k = 1; k <= n; k++) {
         }
     }
 }
-
+//all the distance
+for(int i[]:d){
+    System.out.println(Arrays.toString(i));
+}
 // Return dist between src and dest.
 return d[src][dest];
 
