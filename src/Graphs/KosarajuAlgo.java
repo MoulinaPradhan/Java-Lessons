@@ -64,6 +64,7 @@ st.push(node);
 		adj.get(5).add(4);
 		adj.get(6).add(5);
 
+
 			kosaRaju(adj);
     }
 }
